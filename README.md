@@ -1,3 +1,11 @@
+# CMPE - 256 - HACKATHON
+# TEAM - SpartanSquad
+# Team members: 
+   - Aishley Manglani
+   - Rishi Patel
+   - Rushabh Runwal
+   - Syeda Nida Khader
+
 # Food Security Research with LLM RAG using Ollama
 
 This notebook demonstrates how to build a research assistant for food security analysis using Local Large Language Models (LLMs) with Retrieval Augmented Generation (RAG) through Ollama.
